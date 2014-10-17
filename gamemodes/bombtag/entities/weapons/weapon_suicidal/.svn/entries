@@ -1,0 +1,40 @@
+8
+
+dir
+1067
+http://svn.facepunch.com/svn/garrysmod/trunk/garrysmod/gamemodes/bombtag/entities/weapons/weapon_suicidal
+http://svn.facepunch.com/svn/garrysmod
+
+
+
+2009-08-24T21:16:29.568094Z
+943
+rambo
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6507786c-0baa-5646-8eb9-bf7fdd2a6dd8
+
+shared.lua
+file
+
+
+
+
+2009-12-14T22:38:44.515625Z
+7da9cf68f1ad888729737e7afdb84f8c
+2009-08-24T21:16:29.568094Z
+943
+rambo
+

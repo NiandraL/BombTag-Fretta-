@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/garrysmod/!svn/ver/956/trunk/garrysmod/gamemodes/bombtag/gamemode
+END
+ply_extension.lua
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/garrysmod/!svn/ver/907/trunk/garrysmod/gamemodes/bombtag/gamemode/ply_extension.lua
+END
+cl_init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/garrysmod/!svn/ver/918/trunk/garrysmod/gamemodes/bombtag/gamemode/cl_init.lua
+END
+init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/garrysmod/!svn/ver/918/trunk/garrysmod/gamemodes/bombtag/gamemode/init.lua
+END
+shared.lua
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/garrysmod/!svn/ver/956/trunk/garrysmod/gamemodes/bombtag/gamemode/shared.lua
+END
+tables.lua
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/garrysmod/!svn/ver/907/trunk/garrysmod/gamemodes/bombtag/gamemode/tables.lua
+END
+cl_hud.lua
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/garrysmod/!svn/ver/918/trunk/garrysmod/gamemodes/bombtag/gamemode/cl_hud.lua
+END
