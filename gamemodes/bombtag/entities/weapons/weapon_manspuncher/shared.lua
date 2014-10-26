@@ -30,6 +30,7 @@ if CLIENT then
 	end
 	
 	SWEP.IconLetter = "m"
+	surface.CreateFont( "SWB_KillIcons", {font = "csd", size = ScreenScale(30), weight = 500, blursize = 0, antialias = true, shadow = false} )
 	killicon.AddFont("weapon_manspuncher", "SWB_KillIcons", SWEP.IconLetter, Color(1, 177, 236, 150))
 	
 end
