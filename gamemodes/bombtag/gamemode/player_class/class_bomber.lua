@@ -22,7 +22,7 @@ function CLASS:Loadout( pl )
 	// Attach to spine
 	local boneid = pl:LookupBone("ValveBiped.Bip01_Spine2")
 	if boneid then
-		pos, ang = pl:GetBonePosition( BoneIndx )
+		pos, ang = pl:GetBonePosition( boneid )
 	end
     
 	local bomb = ents.Create( "sent_dynamite" )
